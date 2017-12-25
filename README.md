@@ -4,5 +4,6 @@
      hand is lightweight and dexderous. And all of the components can be found at home.
 
 # material object
-[![v2.6]](http://baidu.com)  
-[![v3.0]](http://baidu.com)  
+[![v2.6]](https://github.com/marooncn/OpenHand/blob/master/v2.6.jpg)  
+vedio: https://pan.baidu.com/s/1dFNc9hR
+[![v3.1]](https://github.com/marooncn/OpenHand/blob/master/v3.1.jpg)  
