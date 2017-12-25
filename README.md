@@ -6,6 +6,8 @@
 # material object
 ## OpenHand v2.6
 ![v2.6](https://github.com/marooncn/OpenHand/blob/master/v2.6.jpg) <br>
-vedio: https://pan.baidu.com/s/1dFNc9hR <br>
 ## OpenHand V3.1
 ![v3.1](https://github.com/marooncn/OpenHand/blob/master/v3.1.jpg)
+## Supplement
+vedio: https://pan.baidu.com/s/1dFNc9hR (V2.6) <br>
+Yale OpenHand:https://www.eng.yale.edu/grablab/openhand/model_t.html
