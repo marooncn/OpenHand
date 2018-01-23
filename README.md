@@ -1,7 +1,8 @@
 # OpenHand
      A lightweight hand based on Yale OpenHand Project.
-     The total weight of Model T is 490g, I reduce half of its weight to use it for aerial robots which 
-     require grasping hand is lightweight and dexderous. And all of the components can be found at home.
+     The total weight of Model T is 490g, I reduce half of its weight to use for aerial robots which 
+     require grasping hand to be lightweight and dexderous. What's more the details are redeisgned to 
+     be accordance with Chinese standards and all of the components can be bought at home.
 
 # material object
 ## OpenHand v2.6
